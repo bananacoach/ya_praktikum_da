@@ -2,7 +2,7 @@
 My projects for Data Analysis course by Yandex.Praktikum
 
 <h1 style="font-weight:normal" align="center">
-  &nbsp;Портфолио проектов по аналитике данных&nbsp;
+  &nbsp;Аналитика данных. Портфолио проектов.&nbsp;
 </h1>
 <br>
 
