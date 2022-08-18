@@ -10,7 +10,7 @@ My projects for Data Analysis course by Yandex.Praktikum
 |:-----:|-----|:-----:|-----|:-----:|
 |1|[Исследование надёжности заёмщиков](https://github.com/bananacoach/ya_praktikum_da/blob/main/borrowers_analytics_git.ipynb)|Финансы|Предобработка и анализ данных; исследовательский анализ данных| `Python` `pymystem3` `Pandas` `NumPy` |
 |2|[Исследование объявлений о продаже квартир](https://github.com/bananacoach/ya_praktikum_da/blob/main/estate_ads_research_git.ipynb)|Недвижимость|Предобработка данных; поиск корреляций; построение графиков| `Pandas` `Matplotlib` `NumPy`|
-|3|[Рынок заведений общественного питания Москвы](https://github.com/bananacoach/ya_praktikum_da/blob/main/estate_ads_research_git.ipynb)|Общественное питание|Предобработка данных; API; исследовательский анализ данных; геоаналитика|`Pandas` `Seaborn` `Matplotlib` `Numpy` `Requests` `io` `API`|
+|3|[Рынок заведений общественного питания Москвы](https://github.com/bananacoach/ya_praktikum_da/blob/main/mos_public_catering_git.ipynb)|Общественное питание|Предобработка данных; API; исследовательский анализ данных; геоаналитика|`Pandas` `Seaborn` `Matplotlib` `Numpy` `Requests` `io` `API`|
 
 <br>
 <span align="center">
