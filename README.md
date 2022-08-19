@@ -8,7 +8,7 @@ My projects for Data Analysis course by Yandex.Praktikum
 
 |№|Название проекта|Сфера|Описание|Стек|
 |:-----:|-----|:-----:|-----|:-----:|
-|1|[Исследование надёжности заёмщиков](https://github.com/bananacoach/ya_praktikum_da/blob/main/borrowers_analytics_git.ipynb)|Банковская сфера,кредитование|Обработка данных, дубликаты, пропуски, категоризация, декомпозиция.На основе статистики о платёжеспособности клиентов исследовать влияет ли семейное положение и количество детей клиента на факт возврата кредита в срок| `Python` `pymystem3` `Pandas` `NumPy` |
+|1|[Исследование надёжности заёмщиков](https://github.com/bananacoach/ya_praktikum_da/blob/main/borrowers_analytics_git.ipynb)|Банковская сфера, кредитование|Обработка данных, дубликаты, пропуски, категоризация, декомпозиция. На основе статистики о платёжеспособности клиентов исследовать влияет ли семейное положение и количество детей клиента на факт возврата кредита в срок| `Python` `pymystem3` `Pandas` `NumPy` |
 |2|[Исследование объявлений о продаже квартир](https://github.com/bananacoach/ya_praktikum_da/blob/main/estate_ads_research_git.ipynb)|Недвижимость|Предобработка данных; поиск корреляций; построение графиков| `Pandas` `Matplotlib` `NumPy`|
 |3|[Рынок заведений общественного питания Москвы](https://github.com/bananacoach/ya_praktikum_da/blob/main/mos_public_catering_git.ipynb)|Стартапы, бизнес, оффлайн|Мною был исследован вопрос - будет ли успешным и популярным на долгое время кафе, в котором гостей обслуживают роботы-официанты. В построении графиков я использовала библиотеки seaborn и plotly.|`Pandas` `Seaborn` `Matplotlib` `Numpy` `Requests` `API`|
 
