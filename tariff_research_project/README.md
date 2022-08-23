@@ -23,7 +23,7 @@
 
 `Python` `Pandas` `Matplotlib` `NumPy` `SciPy` `описательная статистика` `проверка статистических гипотез`
 
-[С проектом можно ознакомиться, пройдя по этой ссылке](https://github.com/bananacoach/ya_praktikum_da/blob/main/mos_public_catering_project/mos_public_catering_git.ipynb)
+[С проектом можно ознакомиться, пройдя по этой ссылке](https://github.com/bananacoach/ya_praktikum_da/blob/main/tariff_research_project/tariff_research_git.ipynb)
 
 
 <br>
