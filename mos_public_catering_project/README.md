@@ -22,8 +22,8 @@
 `Python` `Plotly` `Pandas` `NumPy` `Matplotlib` `Seaborn` `исследовательский анализ данных` `визуализация данных`
 
 
-[С проектом можно ознакомиться, пройдя по этой ссылке]()
+[С проектом можно ознакомиться, пройдя по этой ссылке](https://github.com/bananacoach/ya_praktikum_da/blob/main/mos_public_catering_project/mos_public_catering_git.ipynb)
 
-[С презентацией можно ознакомиться, пройдя по этой ссылке]()
+[С презентацией можно ознакомиться, пройдя по этой ссылке](https://drive.google.com/file/d/1Bi3nhjGFTp8aZD6kHXsLVweNB4kLMMzi/view?usp=sharing)
 
 <br>
