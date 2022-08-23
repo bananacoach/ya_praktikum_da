@@ -23,7 +23,7 @@
 
 `A/B-тестирование` `Python` `Pandas` `Matplotlib` `Seaborn` `Plotly` `событийная аналитика` `продуктовые метрики` `проверка статистических гипотез` `визуализация данных`
 
-[С проектом можно ознакомиться, пройдя по этой ссылке]()
+[С проектом можно ознакомиться, пройдя по этой ссылке](https://github.com/bananacoach/ya_praktikum_da/blob/main/ab_testing_project/ab_testing_git.ipynb)
 
 
 <br>
