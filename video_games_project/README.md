@@ -24,7 +24,7 @@ Gamedev, интернет-магазины
 
 `Python` `Pandas` `NumPy` `Matplotlib` `предобработка данных` `исследовательский анализ данных` `описательная статистика`  `проверка статистических гипотез`
 
-[С проектом можно ознакомиться, пройдя по этой ссылке](https://github.com/bananacoach/ya_praktikum_da/blob/main/tariff_research_project/tariff_research_git.ipynb)
+[С проектом можно ознакомиться, пройдя по этой ссылке](https://github.com/bananacoach/ya_praktikum_da/blob/main/video_games_project/video_games_git.ipynb)
 
 
 <br>
