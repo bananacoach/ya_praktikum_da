@@ -23,6 +23,6 @@
 `Python` `pymystem3` `Pandas` `NumPy` `Matplotlib` `исследовательский анализ данных` `визуализация данных` `предобработка данных`
 
 
-[С проектом можно ознакомиться, пройдя по этой ссылке](https://github.com/bananacoach/ya_praktikum_da/blob/main/borrowers_analytics_project/borrowers_analytics_git.ipynb)
+[С проектом можно ознакомиться, пройдя по этой ссылке](https://github.com/bananacoach/ya_praktikum_da/blob/main/estate_ads_research_project/estate_ads_research_git.ipynb)
 
 <br>
