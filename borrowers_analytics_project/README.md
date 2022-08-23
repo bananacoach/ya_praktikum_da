@@ -1,5 +1,5 @@
 
-# Исследование надёжности заёмщиков
+# Исследование надёжности заёмщиков 
 
 ## Данные
 
@@ -17,6 +17,7 @@
 
 `Python` `pymystem3` `Pandas` `NumPy`
 
-|https://github.com/bananacoach/ya_praktikum_da/blob/main/borrowers_analytics_project/borrowers_analytics_git.ipynb|
+
+[С проектом можно ознакомиться, пройдя по этой ссылке](https://github.com/bananacoach/ya_praktikum_da/blob/main/borrowers_analytics_project/borrowers_analytics_git.ipynb)
 
 <br>
